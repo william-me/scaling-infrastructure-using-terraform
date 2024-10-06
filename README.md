@@ -31,7 +31,7 @@ Clone this repository to your local machine:
 
 ```
 git clone https://github.com/william-me/scaling-infrastructure-using-terraform.git
-cd Configurable-web-app-using-terraform
+cd scaling-infrastructure-using-terraform
 ```
 
 Configure AWS CLI with a profile
