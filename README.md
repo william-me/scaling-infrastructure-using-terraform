@@ -30,7 +30,7 @@ A VPC with two subnets in different availability zones
 Clone this repository to your local machine:
 
 ```
-git clone https://github.com/your-username/Configurable-web-app-using-terraform.git
+git clone https://github.com/william-me/scaling-infrastructure-using-terraform.git
 cd Configurable-web-app-using-terraform
 ```
 
